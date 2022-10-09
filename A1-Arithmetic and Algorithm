@@ -1,0 +1,39 @@
+1. Differentiate Flowchart and Algorithm
+> Algorithms and flowcharts are different mechanisms used to design different programs, especially in computer programming. Algorithms are step-by-step summaries of procedures, and flowcharts are graphical representations of program steps.
+• A flowchart is a graphical representation of the steps that a program performs to process data. By doing so, you can use some geometric pattern to indicate a number of actions that your program performs.
+With the help of flowcharts, designers can effectively separate different elements of the process. It also facilitates analysis by providing step-by-step instructions on the problem.
+• An algorithm is a procedure or set of rules that defines how a program is to be executed. Or we can say that it is a set of instructions for solving a well-defined computational problem.
+
+2. Discuss the brief history of flowchart
+> Flowcharts started out as hand-drawn diagrams that were very difficult and cumbersome to modify. Frank Gilbreth explained the first flow charts to members of the American Society of Mechanical Engineers (ASME) in 1921, introducing him to his lecture "Process Charts - The First Steps in Finding the Best Way."
+Flowcharts soon found their way into industrial engineering. In the early 1930s, at the Work Simplification Conference in New York, Allan H. Mogensen (industrial engineer) trained businessmen using several industrial engineering tools. One alumnus, Art Spinanger, developed a deliberate method change program.
+Another graduate, Ben S. Graham, used flowcharts to process information using multi-flow his process diagrams to represent many documents and their relationships to other documents .
+When computers became capable of graphics, the first flowchart software for programmers was developed. Once you have developed your mouse and menus, you can easily manipulate and modify your flowcharts. The flowchart program has become very simple, fast and easy to use. A flowchart shows a process in a graphical representation that can be understood in seconds.
+Logic flows through the process, branching and recombining decision patterns. Special flowcharts are used for more demanding applications.
+
+3. Flowchart Symbols and Meaning
+• Start/End Symbol - the terminator symbol marks the starting or ending point of the system. It usually contains the word "Start" or "End."
+• Action or Process Symbol - a box can represent a single step ("add two cups of flour"), or an entire sub-process ("make bread") within a larger process.
+• Document Symbol - a printed document or report.
+• Multiple Documents Symbol - represents multiple documents in the process. 
+• Decision Symbol - a decision or branching point. Lines representing different decisions emerge from different points of the diamond.
+• Input/Output Symbol - represents material or information entering or leaving the system, such as customer order (input) or a product (output).
+• Manual Input Symbol - represents a step where a user is prompted to enter information manually.
+• Preparation Symbol - represents a set-up to another step in the process.
+• Connector Symbol - indicates that the flow continues where a matching symbol (containing the same letter) has been placed.
+• Or Symbol - indicates that the process flow continues in more than two branches.
+• Summoning Junction Symbol - indicates a point in the flowchart where multiple branches converge back into a single process.
+• Merge Symbol - indicates a step where two or more sub-lists or sub-processes become one.
+•Collate Symbol - indicates a step that orders information into a standard format.
+• Sort Symbol - indicates a step that organizes a list of items into a sequence or sets based on some pre-determined criteria.
+• Subroutine Symbol - indicates a sequence of actions that perform a specific task embedded within a larger process. This sequence of actions could be described in more detail on a separate flowchart.
+• Manual Loop Symbol - indicates a sequence of commands that will continue to repeat until stopped manually.
+• Loop Limit Symbol - indicates the point at which a loop should stop.
+• Delay Symbol - indicates a delay in the process.
+• Data Storage or Stored Data Symbol - indicates a step where data gets stored.
+• Database Symbol - indicates a list of information with a standard structure that allows for searching and sorting.
+• Internal Storage Symbol - indicates that information was stored in memory during a program, used in software design flowcharts.
+• Display Symbol - indicates a step that displays information.
+• Off Page - indicates that the process continues off page.
+
+4. Create an Algorithm and Flowchart to find the Area of the Square.
